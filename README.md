@@ -62,6 +62,5 @@
 <li>Program menghitung gaji yang diterima yang merupakan penjumlahan dari setiap</li>
 <li>komponen berdasarkan data dari tabel (Nilai 12)</li>
 <li>Program menampilkan gaji yang diterima (Nilai 10)</li>
-<li>ketika button simpan komponen di klik maka data pegawai dan komponen pegawai</li>
-<li>yang bersangkutan tampil sebagai message (Nilai 12)</li>
+<li>ketika button simpan komponen di klik maka data pegawai dan komponen pegawai yang bersangkutan tampil sebagai message (Nilai 12)</li>
   </ol>
