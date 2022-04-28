@@ -39,8 +39,7 @@
 <li>Tunjangan Kesehatan</li>
 <li>Upah Lembur</li>
 <li>Lainnya</li>
-<li>Hubungan antara tabel Pegawai dengan komponen gaji adalah seorang pegawai</li>
-<li>memiliki minimal satu komponen gaji</li>
+<li>Hubungan antara tabel Pegawai dengan komponen gaji adalah seorang pegawai memiliki minimal satu komponen gaji</li>
   </ul>
 <br>
 <h3>Soal 4. (Nilai =25)</h3>
@@ -59,8 +58,7 @@
 <li>User memasukkan jumlah gaji dari komponen yang bersangkutan (Nilai 2)</li>
 <li>User menekan tombol tambah untuk memasukkan data ke dalam tabel dibawahnya (Nilai 12)</li>
 <li>User dapat menghapus komponen yang ada pada tabel dengan menekan tombol hapus (Nilai 12)</li>
-<li>Program menghitung gaji yang diterima yang merupakan penjumlahan dari setiap</li>
-<li>komponen berdasarkan data dari tabel (Nilai 12)</li>
+<li>Program menghitung gaji yang diterima yang merupakan penjumlahan dari setiap komponen berdasarkan data dari tabel (Nilai 12)</li>
 <li>Program menampilkan gaji yang diterima (Nilai 10)</li>
 <li>ketika button simpan komponen di klik maka data pegawai dan komponen pegawai yang bersangkutan tampil sebagai message (Nilai 12)</li>
   </ol>
